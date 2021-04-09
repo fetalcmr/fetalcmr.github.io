@@ -8,4 +8,4 @@ atom_feed:
   
 nav: 
 - Home: 'index.md'
-- Site Sequence Tables: 'sequenceTables.md'
+- Site Sequence Tables: 'sequencesTables.md'
