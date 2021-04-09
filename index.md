@@ -24,4 +24,4 @@ last_modified_at: 2021-04-08T00:00:00-04:00
 
 This page is maintained by Joshua van Amerom, Thomas Roberts and Eric Schrauben.
 
-To contribute content or suggest changes, please <a href='mailto:joshua.vanamerom@sickkids.ca,t.roberts@kcl.ac.uk,e.m.schrauben@amsterdamumc.nl?subject=Fetal%20CMR%20Resources%20fetalcmr.github.io'>email us</a> or submit a pull request to [this git repo](https://github.com/fetalcmr/fetalcmr.github.io/CONTRIBUTING.md).
+To contribute content or suggest changes, please <a href='mailto:joshua.vanamerom@sickkids.ca,t.roberts@kcl.ac.uk,e.m.schrauben@amsterdamumc.nl?subject=Fetal%20CMR%20Resources%20fetalcmr.github.io'>email us</a> or submit a pull request to [this git repo](https://github.com/fetalcmr/fetalcmr.github.io/blob/main/CONTRIBUTING.md).
