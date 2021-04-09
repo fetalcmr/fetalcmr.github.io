@@ -1,3 +1,8 @@
+---
+title: "Sequence Parameter Table"
+tagline: "resources"
+layout: single
+
 | Centre name                 | King's College London                                         |
 | --------------------------- | ------------------------------------------------------------- |
 | Contact(s)                  | David Lloyd, Tom Roberts, Johannes Steinweg, Milou van Poppel |
@@ -34,3 +39,5 @@
 | General notes               | TR = (shot time \* number of slices) / number of packages     |
 |                             | B1 and Refocussing Angle optimised to reduce scan time        |
 |                             | Wide range on slices per stack due to stack orientation       |
+
+---
