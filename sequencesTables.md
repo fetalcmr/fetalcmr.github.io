@@ -1,7 +1,7 @@
 ---
-title: "Sequence Parameter Table"
-tagline: "resources"
-layout: single
+layout: page
+title: "Sequence Parameter Tables"
+permalink: /sequence-tables/
 
 | Centre name                 | King's College London                                         |
 | --------------------------- | ------------------------------------------------------------- |
