@@ -5,3 +5,7 @@ plugins:
 
 atom_feed:
   hide: true
+  
+nav: 
+- Home: 'index.md'
+- Site Sequence Tables: 'sequenceTables.md'
