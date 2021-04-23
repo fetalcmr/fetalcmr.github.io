@@ -1,5 +1,13 @@
 # Contributing
 
-Guidance for submitting changes via pull request will be added here in the future. 
+Content can be added on the main page (`index.md`) or as a separate page. 
 
-For now, please contact the maintainers of this repo by <a href='mailto:joshua.vanamerom@sickkids.ca,t.roberts@kcl.ac.uk,e.m.schrauben@amsterdamumc.nl?subject=Fetal%20CMR%20Resources%20fetalcmr.github.io'>email</a> to contribute content or suggest changes.
+[Pull requests](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests) using the [GitHub branch-based workflow](https://guides.github.com/introduction/flow/index.html) are the best way to propose content additions and changes:
+
+1. Create a branch from `main` with a succinct but descriptive name
+2. Make and commit changes.
+3. Open a pull request.
+4. Discuss and review with the repo/page maintainers.
+5. Once ready, one of the maintainers will merge your branch into `main` and the content will be included on the website.
+
+Alternatively, contact the maintainers of this repo.
