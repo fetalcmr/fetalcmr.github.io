@@ -13,7 +13,7 @@ toc: true
 toc_sticky: true
 sidebar:
   - title: "Fetal CMR Resources"
-    text: "a list of technical resources for fetal cardiac magnetic resonance imaging"
+    text: "a list of technical resources for fetal cardiac magnetic resonance imaging put together by the [SCMR Fetal CMR and CMR in Pregnancy Special Interest Group](https://scmr.org/members/group.aspx?id=210568)"
 last_modified_at: 2021-04-23T22:00:00-04:00
 ---
 
