@@ -19,13 +19,13 @@ last_modified_at: 2021-04-23T22:00:00-04:00
 
 ## Webinars
 
-### SCMR Fetal CMR and CMR Pregnancy Special Interest Group
+**SCMR Fetal CMR and CMR Pregnancy Special Interest Group**
 
 Apr 9, 2021 – [Fetal Cardiac MRI: Center Specific Experience](https://www.youtube.com/watch?v=UhfaYKHAAk0)  
 
 Oct 8, 2021 – [Fetal CMR: “What’s in my exam card?” A practical guide to acquisition and post-processing methods](youtube.com/watch?v=xkbEyGDhR08)  
 
-### Northh Medical
+**Northh Medical**
 
 2023 Webinar Series – [Fetal Cardiac Imaging Using MRI](https://www.northh.de/webinar-registration)  
 
